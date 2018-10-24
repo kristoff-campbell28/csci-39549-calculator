@@ -1,2 +1,0 @@
-release: flask run
-web: gunicorn gettingstarted.wsgi --log-file
